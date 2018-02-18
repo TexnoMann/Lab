@@ -6,4 +6,7 @@ U3=[64.5,67,68,70,71,72,72.5,85,57,56]
 U1i = pchip(f,U1,fi);
 U2i = pchip(f,U2,fi);
 U3i = pchip(f,U3,fi);
-semilogx(fi,U1i, fi,U2i, fi,U3i)
+b=60;
+n=length(fi);
+y(1:n)=b;
+semilogx(fi,U1i, fi,U2i, fi,U3i,fi,y)
