@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.2.14)  25 FEB 2018 03:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.2.14)  26 FEB 2018 15:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -953,8 +953,40 @@ Underfull \hbox (badness 10000) in paragraph at lines 15--26
 
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]) (./4(1).tex
-<./images/ch4.png, id=9, 469.00218pt x 135.50626pt>
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]) (./2.tex
+<Part2.png, id=9, 469.00218pt x 135.50626pt>
+File: Part2.png Graphic file (type png)
+ <use Part2.png>
+Package pdftex.def Info: Part2.png used on input line 6.
+(pdftex.def)             Requested size: 512.14963pt x 147.9718pt.
+
+
+LaTeX Warning: Command \CYRN invalid in math mode on input line 7.
+
+Missing character: There is no Í in font cmr8!
+
+LaTeX Warning: Command \CYRN invalid in math mode on input line 7.
+
+Missing character: There is no Í in font cmr8!
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--8
+
+ []
+
+
+LaTeX Warning: Command \CYRN invalid in math mode on input line 30.
+
+Missing character: There is no Í in font cmr8!
+
+LaTeX Warning: Command \CYRR invalid in math mode on input line 30.
+
+
+LaTeX Warning: Command \CYRN invalid in math mode on input line 30.
+
+Missing character: There is no Ð in font cmr12!
+Missing character: There is no Í in font cmr8!
+) (./4(1).tex [1 <./Part2.png>]
+<./images/ch4.png, id=17, 469.00218pt x 135.50626pt>
 File: ./images/ch4.png Graphic file (type png)
  <use ./images/ch4.png>
 Package pdftex.def Info: ./images/ch4.png used on input line 8.
@@ -979,8 +1011,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 30--34
 
  []
 
-) (./task6.tex [1 <./images/ch4.png (PNG copy)>]
-<./images/ch6.jpg, id=19, 469.00218pt x 97.11281pt>
+) (./task6.tex [2 <./images/ch4.png (PNG copy)>]
+<./images/ch6.jpg, id=23, 469.00218pt x 97.11281pt>
 File: ./images/ch6.jpg Graphic file (type jpg)
  <use ./images/ch6.jpg>
 Package pdftex.def Info: ./images/ch6.jpg used on input line 6.
@@ -1000,13 +1032,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--20
 
  []
 
-<./images/graphicVandI.jpg, id=20, 1326.9575pt x 995.72pt>
+<./images/graphicVandI.jpg, id=24, 1326.9575pt x 995.72pt>
 File: ./images/graphicVandI.jpg Graphic file (type jpg)
 
 <use ./images/graphicVandI.jpg>
 Package pdftex.def Info: ./images/graphicVandI.jpg used on input line 21.
 (pdftex.def)             Requested size: 369.88582pt x 277.55383pt.
- [2 <./images/ch6.jpg> <./images/graphicVandI.jpg>]
+ [3 <./images/ch6.jpg> <./images/graphicVandI.jpg>]
 Overfull \hbox (4.17816pt too wide) in paragraph at lines 37--37
 []\T2A/cmr/m/n/12 0.0675| 
  []
@@ -1066,29 +1098,108 @@ Underfull \hbox (badness 10000) in paragraph at lines 26--45
 
  []
 
-) [3] (./main.aux) ) 
+) (./task1.tex [4]
+
+LaTeX Warning: Command \textendash invalid in math mode on input line 11.
+
+
+LaTeX Warning: Command \CYRR invalid in math mode on input line 11.
+
+Missing character: There is no Ð in font cmr12!
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--13
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--13
+
+ []
+
+
+LaTeX Warning: Command \CYRA invalid in math mode on input line 19.
+
+Missing character: There is no À in font cmr12!
+
+LaTeX Warning: Command \CYRV invalid in math mode on input line 20.
+
+Missing character: There is no Â in font cmr12!
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--23
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--23
+
+ []
+
+
+LaTeX Warning: Command \cyra invalid in math mode on input line 35.
+
+
+LaTeX Warning: Command \cyra invalid in math mode on input line 36.
+
+
+LaTeX Warning: Command \cyra invalid in math mode on input line 37.
+
+
+LaTeX Warning: Command \cyra invalid in math mode on input line 38.
+
+Missing character: There is no à in font cmr8!
+Missing character: There is no à in font cmr8!
+Missing character: There is no à in font cmr8!
+Missing character: There is no à in font cmr8!
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--48
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--48
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--48
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--48
+
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+) [5] [6] (./main.aux) ) 
 Here is how much of TeX's memory you used:
- 4485 strings out of 493029
- 57098 string characters out of 6136234
+ 4496 strings out of 493029
+ 57200 string characters out of 6136234
  131320 words of memory out of 5000000
- 7932 multiletter control sequences out of 15000+600000
+ 7936 multiletter control sequences out of 15000+600000
  12055 words of font info for 32 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  37i,12n,23p,857b,213s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t2a.enc
-}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr
-/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/
-texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-d
-ist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/pub
-lic/cm-super/sfbi1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx120
-0.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/te
-xmf/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/publ
-ic/cm-super/sfti1200.pfb>
-Output written on main.pdf (4 pages, 1029213 bytes).
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t2a
+.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><
+/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/s
+hare/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/te
+xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmsy8.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbi1200.pf
+b></usr/share/texmf/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf/
+fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf/fonts/type1/public/c
+m-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti1200.pfb
+>
+Output written on main.pdf (7 pages, 1092310 bytes).
 PDF statistics:
- 61 PDF objects out of 1000 (max. 8388607)
- 41 compressed objects within 1 object stream
+ 89 PDF objects out of 1000 (max. 8388607)
+ 61 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
