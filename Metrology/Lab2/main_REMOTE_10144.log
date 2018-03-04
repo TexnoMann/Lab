@@ -1,12 +1,8 @@
 <<<<<<< HEAD
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.2.14)  5 MAR 2018 02:06
-=======
-<<<<<<< HEAD
 This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.2.19)  5 MAR 2018 01:27
 =======
 This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.2.14)  5 MAR 2018 00:17
 >>>>>>> 21e023634b46266d3b042595dda07fdab35352f6
->>>>>>> b8afc64435fcbecf1b496293285438efba790280
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1088,18 +1084,17 @@ Missing character: There is no Í in font cmr8!
 Underfull \hbox (badness 10000) in paragraph at lines 5--6
 =======
 ) (./4(1).tex [2 <./Part2.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 5--6
-
- []
-
 <./images/ch4.png, id=26, 469.00218pt x 135.50626pt>
 File: ./images/ch4.png Graphic file (type png)
  <use ./images/ch4.png>
 Package pdftex.def Info: ./images/ch4.png used on input line 8.
-(pdftex.def)             Requested size: 307.2929pt x 88.78308pt.
+(pdftex.def)             Requested size: 512.14963pt x 147.9718pt.
 
-<<<<<<< HEAD
-=======
+Overfull \hbox (2.61829pt too wide) in paragraph at lines 6--9
+ [] 
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 6--9
 >>>>>>> 21e023634b46266d3b042595dda07fdab35352f6
 
@@ -1112,7 +1107,6 @@ Package pdftex.def Info: ch4.png  used on input line 8. on input line 8.
 Package pdftex.def Info: Requested size: 307.2929pt x 88.78308pt on input line 
 8.
 
->>>>>>> b8afc64435fcbecf1b496293285438efba790280
 Underfull \hbox (badness 10000) in paragraph at lines 11--13
 
  []
@@ -1122,21 +1116,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 30--34
 
  []
 
-<<<<<<< HEAD
-<./images/gr4(1).png, id=27, 709.65125pt x 502.87875pt>
-File: ./images/gr4(1).png Graphic file (type png)
-
-<use ./images/gr4(1).png>
-Package pdftex.def Info: ./images/gr4(1).png used on input line 36.
-(pdftex.def)             Requested size: 384.11221pt x 272.19504pt.
-) (./task6.tex [3 <./images/ch4.png (PNG copy)> <./images/gr4(1).png>] <./image
-s/ch6.jpg, id=33, 469.00218pt x 97.11281pt>
-File: ./images/ch6.jpg Graphic file (type jpg)
-
-<use ./images/ch6.jpg>
-Package pdftex.def Info: ./images/ch6.jpg used on input line 6.
-(pdftex.def)             Requested size: 512.14963pt x 106.04645pt.
-=======
 <<<<<<< HEAD
 <./images/gr4(1).png, id=18, 709.65125pt x 502.87875pt>
 File: ./images/gr4(1).png Graphic file (type png)
@@ -1157,7 +1136,6 @@ Package pdftex.def Info: ./images/ch6.jpg  used on input line 6. on input line
 6.
 Package pdftex.def Info: Requested size: 512.14963pt x 106.04645pt on input lin
 e 6.
->>>>>>> b8afc64435fcbecf1b496293285438efba790280
 
 
 LaTeX Warning: Command \CYRS invalid in math mode on input line 15.
@@ -1174,14 +1152,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--20
  []
 
 <<<<<<< HEAD
-<./images/graphicVandI.jpg, id=34, 1326.9575pt x 995.72pt>
-=======
-<<<<<<< HEAD
 <./images/graphicVandI.jpg, id=27, 1326.9575pt x 995.72pt>
 =======
 <./images/graphicVandI.jpg, id=31, 1326.9575pt x 995.72pt>
 >>>>>>> 21e023634b46266d3b042595dda07fdab35352f6
->>>>>>> b8afc64435fcbecf1b496293285438efba790280
 File: ./images/graphicVandI.jpg Graphic file (type jpg)
 <use ./images/graphicVandI.jpg>
 <<<<<<< HEAD
@@ -1202,53 +1176,56 @@ Underfull \hbox (badness 10000) in paragraph at lines 37--37
  []
 
 
+Overfull \hbox (1.3327pt too wide) in paragraph at lines 37--37
+\T2A/cmr/m/n/12 0.3825| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--37
+[]\T2A/cmr/m/n/12 -
+ []
+
+
 Overfull \hbox (4.17816pt too wide) in paragraph at lines 37--37
 []\T2A/cmr/m/n/12 0.4425| 
  []
 
 
-Overfull \hbox (4.17816pt too wide) in paragraph at lines 39--39
+Overfull \hbox (1.3327pt too wide) in paragraph at lines 38--38
 []\T2A/cmr/m/n/12 0.5284| 
  []
 
 
-Overfull \hbox (4.17816pt too wide) in paragraph at lines 39--39
+Overfull \hbox (4.17816pt too wide) in paragraph at lines 38--38
 []\T2A/cmr/m/n/12 0.5284| 
  []
 
 
-Overfull \hbox (4.17816pt too wide) in paragraph at lines 39--39
+Overfull \hbox (4.17816pt too wide) in paragraph at lines 38--38
 []\T2A/cmr/m/n/12 0.5284| 
  []
 
 
-Overfull \hbox (4.17816pt too wide) in paragraph at lines 39--39
+Overfull \hbox (4.17816pt too wide) in paragraph at lines 38--38
 []\T2A/cmr/m/n/12 0.5284| 
  []
 
 
-Overfull \hbox (4.17816pt too wide) in paragraph at lines 39--39
+Overfull \hbox (4.17816pt too wide) in paragraph at lines 38--38
 []\T2A/cmr/m/n/12 0.5284| 
  []
 
 
-Overfull \hbox (4.17816pt too wide) in paragraph at lines 39--39
+Overfull \hbox (4.17816pt too wide) in paragraph at lines 38--38
 []\T2A/cmr/m/n/12 0.5284| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 26--45
-
+Overfull \hbox (4.17816pt too wide) in paragraph at lines 38--38
+[]\T2A/cmr/m/n/12 0.5284| 
  []
 
-<./images/graphtask2u.png, id=39, 1028.34187pt x 347.04657pt>
-File: ./images/graphtask2u.png Graphic file (type png)
 
-<<<<<<< HEAD
-<use ./images/graphtask2u.png>
-Package pdftex.def Info: ./images/graphtask2u.png used on input line 49.
-(pdftex.def)             Requested size: 512.14963pt x 172.84503pt.
-=======
 <<<<<<< HEAD
 Underfull \hbox (badness 10000) in paragraph at lines 26--45
 
@@ -1324,16 +1301,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 31--54
 =======
 Underfull \hbox (badness 10000) in paragraph at lines 26--44
 >>>>>>> 21e023634b46266d3b042595dda07fdab35352f6
->>>>>>> b8afc64435fcbecf1b496293285438efba790280
 
-<./images/graphtask2ui.png, id=40, 1028.34187pt x 347.04657pt>
-File: ./images/graphtask2ui.png Graphic file (type png)
+ []
 
-<use ./images/graphtask2ui.png>
-Package pdftex.def Info: ./images/graphtask2ui.png used on input line 53.
-(pdftex.def)             Requested size: 512.14963pt x 172.84503pt.
-
-<./images/graphtask2.png, id=41, 1028.34187pt x 347.04657pt>
+<./images/graphtask2.png, id=36, 1028.34187pt x 344.03531pt>
 File: ./images/graphtask2.png Graphic file (type png)
 
 <<<<<<< HEAD
@@ -1377,16 +1348,15 @@ PDF statistics:
  31 words of extra memory for PDF output out of 10000 (max. 10000000)
 =======
 <use ./images/graphtask2.png>
-Package pdftex.def Info: ./images/graphtask2.png used on input line 57.
-(pdftex.def)             Requested size: 512.14963pt x 172.84503pt.
-) [5 <./images/graphtask2u.png (PNG copy)> <./images/graphtask2ui.png (PNG copy
-)> <./images/graphtask2.png (PNG copy)>]
+Package pdftex.def Info: ./images/graphtask2.png used on input line 48.
+(pdftex.def)             Requested size: 512.14963pt x 171.34529pt.
+) [5 <./images/graphtask2.png (PNG copy)>]
 (./main.aux) ) 
 Here is how much of TeX's memory you used:
- 4516 strings out of 493029
- 57695 string characters out of 6136234
+ 4501 strings out of 493029
+ 57325 string characters out of 6136234
  132320 words of memory out of 5000000
- 7952 multiletter control sequences out of 15000+600000
+ 7940 multiletter control sequences out of 15000+600000
  12055 words of font info for 32 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  37i,12n,23p,857b,213s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1403,15 +1373,11 @@ m/cmsy8.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbi1200.pfb></usr/sh
 are/texmf/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf/fonts/type
 1/public/cm-super/sfbx1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sf
 rm1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti1200.pfb>
-Output written on main.pdf (6 pages, 1175732 bytes).
+Output written on main.pdf (6 pages, 1114277 bytes).
 PDF statistics:
- 90 PDF objects out of 1000 (max. 8388607)
- 58 compressed objects within 1 object stream
+ 85 PDF objects out of 1000 (max. 8388607)
+ 57 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
-<<<<<<< HEAD
- 41 words of extra memory for PDF output out of 10000 (max. 10000000)
-=======
  26 words of extra memory for PDF output out of 10000 (max. 10000000)
 >>>>>>> 21e023634b46266d3b042595dda07fdab35352f6
->>>>>>> b8afc64435fcbecf1b496293285438efba790280
 
