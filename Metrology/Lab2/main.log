@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.2.14)  5 MAR 2018 00:17
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.2.14)  5 MAR 2018 02:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1060,23 +1060,17 @@ LaTeX Warning: Command \CYRN invalid in math mode on input line 30.
 Missing character: There is no Ð in font cmr12!
 Missing character: There is no Í in font cmr8!
 ) (./4(1).tex [2 <./Part2.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
+
+ []
+
 <./images/ch4.png, id=26, 469.00218pt x 135.50626pt>
 File: ./images/ch4.png Graphic file (type png)
  <use ./images/ch4.png>
 Package pdftex.def Info: ./images/ch4.png used on input line 8.
-(pdftex.def)             Requested size: 512.14963pt x 147.9718pt.
+(pdftex.def)             Requested size: 307.2929pt x 88.78308pt.
 
-Overfull \hbox (2.61829pt too wide) in paragraph at lines 6--9
- [] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 6--9
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 10--12
+Underfull \hbox (badness 10000) in paragraph at lines 11--13
 
  []
 
@@ -1085,10 +1079,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 30--34
 
  []
 
-) (./task6.tex [3 <./images/ch4.png (PNG copy)>]
-<./images/ch6.jpg, id=30, 469.00218pt x 97.11281pt>
+<./images/gr4(1).png, id=27, 709.65125pt x 502.87875pt>
+File: ./images/gr4(1).png Graphic file (type png)
+
+<use ./images/gr4(1).png>
+Package pdftex.def Info: ./images/gr4(1).png used on input line 36.
+(pdftex.def)             Requested size: 384.11221pt x 272.19504pt.
+) (./task6.tex [3 <./images/ch4.png (PNG copy)> <./images/gr4(1).png>] <./image
+s/ch6.jpg, id=33, 469.00218pt x 97.11281pt>
 File: ./images/ch6.jpg Graphic file (type jpg)
- <use ./images/ch6.jpg>
+
+<use ./images/ch6.jpg>
 Package pdftex.def Info: ./images/ch6.jpg used on input line 6.
 (pdftex.def)             Requested size: 512.14963pt x 106.04645pt.
 
@@ -1106,7 +1107,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--20
 
  []
 
-<./images/graphicVandI.jpg, id=31, 1326.9575pt x 995.72pt>
+<./images/graphicVandI.jpg, id=34, 1326.9575pt x 995.72pt>
 File: ./images/graphicVandI.jpg Graphic file (type jpg)
 
 <use ./images/graphicVandI.jpg>
@@ -1118,73 +1119,73 @@ Underfull \hbox (badness 10000) in paragraph at lines 37--37
  []
 
 
-Overfull \hbox (1.3327pt too wide) in paragraph at lines 37--37
-\T2A/cmr/m/n/12 0.3825| 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 37--37
-[]\T2A/cmr/m/n/12 -
- []
-
-
 Overfull \hbox (4.17816pt too wide) in paragraph at lines 37--37
 []\T2A/cmr/m/n/12 0.4425| 
  []
 
 
-Overfull \hbox (1.3327pt too wide) in paragraph at lines 38--38
+Overfull \hbox (4.17816pt too wide) in paragraph at lines 39--39
 []\T2A/cmr/m/n/12 0.5284| 
  []
 
 
-Overfull \hbox (4.17816pt too wide) in paragraph at lines 38--38
+Overfull \hbox (4.17816pt too wide) in paragraph at lines 39--39
 []\T2A/cmr/m/n/12 0.5284| 
  []
 
 
-Overfull \hbox (4.17816pt too wide) in paragraph at lines 38--38
+Overfull \hbox (4.17816pt too wide) in paragraph at lines 39--39
 []\T2A/cmr/m/n/12 0.5284| 
  []
 
 
-Overfull \hbox (4.17816pt too wide) in paragraph at lines 38--38
+Overfull \hbox (4.17816pt too wide) in paragraph at lines 39--39
 []\T2A/cmr/m/n/12 0.5284| 
  []
 
 
-Overfull \hbox (4.17816pt too wide) in paragraph at lines 38--38
+Overfull \hbox (4.17816pt too wide) in paragraph at lines 39--39
 []\T2A/cmr/m/n/12 0.5284| 
  []
 
 
-Overfull \hbox (4.17816pt too wide) in paragraph at lines 38--38
+Overfull \hbox (4.17816pt too wide) in paragraph at lines 39--39
 []\T2A/cmr/m/n/12 0.5284| 
  []
 
 
-Overfull \hbox (4.17816pt too wide) in paragraph at lines 38--38
-[]\T2A/cmr/m/n/12 0.5284| 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 26--44
+Underfull \hbox (badness 10000) in paragraph at lines 26--45
 
  []
 
-<./images/graphtask2.png, id=36, 1028.34187pt x 344.03531pt>
+<./images/graphtask2u.png, id=39, 1028.34187pt x 347.04657pt>
+File: ./images/graphtask2u.png Graphic file (type png)
+
+<use ./images/graphtask2u.png>
+Package pdftex.def Info: ./images/graphtask2u.png used on input line 49.
+(pdftex.def)             Requested size: 512.14963pt x 172.84503pt.
+
+<./images/graphtask2ui.png, id=40, 1028.34187pt x 347.04657pt>
+File: ./images/graphtask2ui.png Graphic file (type png)
+
+<use ./images/graphtask2ui.png>
+Package pdftex.def Info: ./images/graphtask2ui.png used on input line 53.
+(pdftex.def)             Requested size: 512.14963pt x 172.84503pt.
+
+<./images/graphtask2.png, id=41, 1028.34187pt x 347.04657pt>
 File: ./images/graphtask2.png Graphic file (type png)
 
 <use ./images/graphtask2.png>
-Package pdftex.def Info: ./images/graphtask2.png used on input line 48.
-(pdftex.def)             Requested size: 512.14963pt x 171.34529pt.
-) [5 <./images/graphtask2.png (PNG copy)>]
+Package pdftex.def Info: ./images/graphtask2.png used on input line 57.
+(pdftex.def)             Requested size: 512.14963pt x 172.84503pt.
+) [5 <./images/graphtask2u.png (PNG copy)> <./images/graphtask2ui.png (PNG copy
+)> <./images/graphtask2.png (PNG copy)>]
 (./main.aux) ) 
 Here is how much of TeX's memory you used:
- 4501 strings out of 493029
- 57325 string characters out of 6136234
+ 4516 strings out of 493029
+ 57695 string characters out of 6136234
  132320 words of memory out of 5000000
- 7940 multiletter control sequences out of 15000+600000
+ 7952 multiletter control sequences out of 15000+600000
  12055 words of font info for 32 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  37i,12n,23p,857b,213s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1201,10 +1202,10 @@ m/cmsy8.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbi1200.pfb></usr/sh
 are/texmf/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf/fonts/type
 1/public/cm-super/sfbx1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sf
 rm1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti1200.pfb>
-Output written on main.pdf (6 pages, 1114277 bytes).
+Output written on main.pdf (6 pages, 1175732 bytes).
 PDF statistics:
- 85 PDF objects out of 1000 (max. 8388607)
- 57 compressed objects within 1 object stream
+ 90 PDF objects out of 1000 (max. 8388607)
+ 58 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 26 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 41 words of extra memory for PDF output out of 10000 (max. 10000000)
 
