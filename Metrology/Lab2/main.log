@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.2.19)  5 MAR 2018 01:27
+=======
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.2.14)  5 MAR 2018 00:17
+>>>>>>> 21e023634b46266d3b042595dda07fdab35352f6
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -968,8 +972,82 @@ Underfull \hbox (badness 10000) in paragraph at lines 15--26
 
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]) (./2.tex
-<Part2.png, id=9, 469.00218pt x 135.50626pt>
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]) (./task1.tex
+
+LaTeX Warning: Command \textendash invalid in math mode on input line 11.
+
+
+LaTeX Warning: Command \CYRR invalid in math mode on input line 11.
+
+Missing character: There is no Ð in font cmr12!
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--13
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--13
+
+ []
+
+
+LaTeX Warning: Command \CYRA invalid in math mode on input line 19.
+
+Missing character: There is no À in font cmr12!
+
+LaTeX Warning: Command \CYRV invalid in math mode on input line 20.
+
+Missing character: There is no Â in font cmr12!
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--23
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--23
+
+ []
+
+
+LaTeX Warning: Command \cyra invalid in math mode on input line 35.
+
+
+LaTeX Warning: Command \cyra invalid in math mode on input line 36.
+
+
+LaTeX Warning: Command \cyra invalid in math mode on input line 37.
+
+
+LaTeX Warning: Command \cyra invalid in math mode on input line 38.
+
+Missing character: There is no à in font cmr8!
+Missing character: There is no à in font cmr8!
+Missing character: There is no à in font cmr8!
+Missing character: There is no à in font cmr8!
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--48
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--48
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--48
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--48
+
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+) (./2.tex [1] <Part2.png, id=22, 469.00218pt x 135.50626pt>
 File: Part2.png Graphic file (type png)
 <use Part2.png>
 Package pdftex.def Info: Part2.png  used on input line 6. on input line 6.
@@ -1001,8 +1079,24 @@ LaTeX Warning: Command \CYRN invalid in math mode on input line 30.
 
 Missing character: There is no Ð in font cmr12!
 Missing character: There is no Í in font cmr8!
+<<<<<<< HEAD
 ) (./4(1).tex [1 <./Part2.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 5--6
+=======
+) (./4(1).tex [2 <./Part2.png>]
+<./images/ch4.png, id=26, 469.00218pt x 135.50626pt>
+File: ./images/ch4.png Graphic file (type png)
+ <use ./images/ch4.png>
+Package pdftex.def Info: ./images/ch4.png used on input line 8.
+(pdftex.def)             Requested size: 512.14963pt x 147.9718pt.
+
+Overfull \hbox (2.61829pt too wide) in paragraph at lines 6--9
+ [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--9
+>>>>>>> 21e023634b46266d3b042595dda07fdab35352f6
 
  []
 
@@ -1022,6 +1116,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 30--34
 
  []
 
+<<<<<<< HEAD
 <./images/gr4(1).png, id=18, 709.65125pt x 502.87875pt>
 File: ./images/gr4(1).png Graphic file (type png)
 <use ./images/gr4(1).png>
@@ -1031,6 +1126,10 @@ Package pdftex.def Info: Requested size: 384.11221pt x 272.19504pt on input lin
 e 36.
 ) (./task6.tex [2 <./ch4.png (PNG copy)> <./images/gr4(1).png>]
 <./images/ch6.jpg, id=26, 469.00218pt x 97.11281pt>
+=======
+) (./task6.tex [3 <./images/ch4.png (PNG copy)>]
+<./images/ch6.jpg, id=30, 469.00218pt x 97.11281pt>
+>>>>>>> 21e023634b46266d3b042595dda07fdab35352f6
 File: ./images/ch6.jpg Graphic file (type jpg)
 <use ./images/ch6.jpg>
 Package pdftex.def Info: ./images/ch6.jpg  used on input line 6. on input line 
@@ -1052,9 +1151,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--20
 
  []
 
+<<<<<<< HEAD
 <./images/graphicVandI.jpg, id=27, 1326.9575pt x 995.72pt>
+=======
+<./images/graphicVandI.jpg, id=31, 1326.9575pt x 995.72pt>
+>>>>>>> 21e023634b46266d3b042595dda07fdab35352f6
 File: ./images/graphicVandI.jpg Graphic file (type jpg)
 <use ./images/graphicVandI.jpg>
+<<<<<<< HEAD
 Package pdftex.def Info: ./images/graphicVandI.jpg  used on input line 21. on i
 nput line 21.
 Package pdftex.def Info: Requested size: 369.88582pt x 277.55383pt on input lin
@@ -1062,59 +1166,67 @@ e 21.
 [3 <./images/ch6.jpg> <./images/graphicVandI.jpg>]
 Overfull \hbox (4.17816pt too wide) in paragraph at lines 37--37
 []\T2A/cmr/m/n/12 0.0675| 
+=======
+Package pdftex.def Info: ./images/graphicVandI.jpg used on input line 21.
+(pdftex.def)             Requested size: 369.88582pt x 277.55383pt.
+ [4 <./images/ch6.jpg> <./images/graphicVandI.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 37--37
+[]\T2A/cmr/m/n/12 -
+>>>>>>> 21e023634b46266d3b042595dda07fdab35352f6
+ []
+
+
+Overfull \hbox (1.3327pt too wide) in paragraph at lines 37--37
+\T2A/cmr/m/n/12 0.3825| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--37
+[]\T2A/cmr/m/n/12 -
  []
 
 
 Overfull \hbox (4.17816pt too wide) in paragraph at lines 37--37
-[]\T2A/cmr/m/n/12 0.8925| 
+[]\T2A/cmr/m/n/12 0.4425| 
  []
 
 
-Overfull \hbox (4.17816pt too wide) in paragraph at lines 39--39
+Overfull \hbox (1.3327pt too wide) in paragraph at lines 38--38
 []\T2A/cmr/m/n/12 0.5284| 
  []
 
 
-Overfull \hbox (4.17816pt too wide) in paragraph at lines 39--39
+Overfull \hbox (4.17816pt too wide) in paragraph at lines 38--38
 []\T2A/cmr/m/n/12 0.5284| 
  []
 
 
-Overfull \hbox (4.17816pt too wide) in paragraph at lines 39--39
+Overfull \hbox (4.17816pt too wide) in paragraph at lines 38--38
 []\T2A/cmr/m/n/12 0.5284| 
  []
 
 
-Overfull \hbox (4.17816pt too wide) in paragraph at lines 39--39
+Overfull \hbox (4.17816pt too wide) in paragraph at lines 38--38
 []\T2A/cmr/m/n/12 0.5284| 
  []
 
 
-Overfull \hbox (4.17816pt too wide) in paragraph at lines 39--39
+Overfull \hbox (4.17816pt too wide) in paragraph at lines 38--38
 []\T2A/cmr/m/n/12 0.5284| 
  []
 
 
-Overfull \hbox (4.17816pt too wide) in paragraph at lines 39--39
+Overfull \hbox (4.17816pt too wide) in paragraph at lines 38--38
 []\T2A/cmr/m/n/12 0.5284| 
  []
 
 
-Overfull \hbox (4.17816pt too wide) in paragraph at lines 39--39
+Overfull \hbox (4.17816pt too wide) in paragraph at lines 38--38
 []\T2A/cmr/m/n/12 0.5284| 
  []
 
 
-Overfull \hbox (4.17816pt too wide) in paragraph at lines 39--39
-[]\T2A/cmr/m/n/12 0.5284| 
- []
-
-
-Overfull \hbox (4.17816pt too wide) in paragraph at lines 39--40
-[]\T2A/cmr/m/n/12 0.5284| 
- []
-
-
+<<<<<<< HEAD
 Underfull \hbox (badness 10000) in paragraph at lines 26--45
 
  []
@@ -1186,10 +1298,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 31--54
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 31--54
+=======
+Underfull \hbox (badness 10000) in paragraph at lines 26--44
+>>>>>>> 21e023634b46266d3b042595dda07fdab35352f6
 
  []
 
+<./images/graphtask2.png, id=36, 1028.34187pt x 344.03531pt>
+File: ./images/graphtask2.png Graphic file (type png)
 
+<<<<<<< HEAD
 Underfull \hbox (badness 10000) in paragraph at lines 31--54
 
  []
@@ -1228,4 +1346,38 @@ PDF statistics:
  66 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  31 words of extra memory for PDF output out of 10000 (max. 10000000)
+=======
+<use ./images/graphtask2.png>
+Package pdftex.def Info: ./images/graphtask2.png used on input line 48.
+(pdftex.def)             Requested size: 512.14963pt x 171.34529pt.
+) [5 <./images/graphtask2.png (PNG copy)>]
+(./main.aux) ) 
+Here is how much of TeX's memory you used:
+ 4501 strings out of 493029
+ 57325 string characters out of 6136234
+ 132320 words of memory out of 5000000
+ 7940 multiletter control sequences out of 15000+600000
+ 12055 words of font info for 32 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 37i,12n,23p,857b,213s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t2a.enc}</usr
+/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share
+/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmsy8.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbi1200.pfb></usr/sh
+are/texmf/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf/fonts/type
+1/public/cm-super/sfbx1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sf
+rm1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti1200.pfb>
+Output written on main.pdf (6 pages, 1114277 bytes).
+PDF statistics:
+ 85 PDF objects out of 1000 (max. 8388607)
+ 57 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 26 words of extra memory for PDF output out of 10000 (max. 10000000)
+>>>>>>> 21e023634b46266d3b042595dda07fdab35352f6
 
